@@ -1,6 +1,6 @@
 <p align="right">
+<a href="https://www.npmjs.com/package/pdf-parse" target="_blank" rel="nofollow"><img src="npm.svg" alt="GitHub"></a> 
 <a href="https://www.linkedin.com/in/mehmet-kozan/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
-<a href="https://github.com/mehmet-kozan" target="_blank" rel="nofollow"><img src="github.svg" alt="GitHub"></a>
 </p>  
 
 <!-- 
