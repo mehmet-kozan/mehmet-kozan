@@ -4,6 +4,14 @@
         <rect xmlns="http://www.w3.org/2000/svg" width="205.25" height="28" fill="#0077b5"/>
     </g>
     <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
-            <text xmlns="http://www.w3.org/2000/svg" transform="scale(.1)" x="1026.25" y="175" textLength="1500" fill="#fff" font-weight="bold">mehmet.kozan@live.com</text>
+        <text xmlns="http://www.w3.org/2000/svg" transform="scale(.1)" x="1026.25" y="175" textLength="1812.5" fill="#fff" font-weight="bold">
+            <tspan>MEHMET</tspan>
+            <tspan>•</tspan>
+            <tspan>KOZAN</tspan>
+            <tspan>＠</tspan>
+            <tspan>LIVE</tspan>
+            <tspan>•</tspan>
+            <tspan>COM</tspan>
+        </text>
     </g>
 </svg>
